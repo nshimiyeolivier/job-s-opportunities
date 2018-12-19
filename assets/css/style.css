@@ -29,7 +29,7 @@ body {
 
 
 .container {
-  background-color: #5d96b4;
+  background-color: #1c5a69;
   box-shadow: 0px 5px 5px 0px white;
   font-family: 'Playfair Display', serif; }
   .adresshobby  a {
@@ -47,8 +47,9 @@ body {
   margin-top: 5%;
   margin-left: 30%;
   width: 40%;
-  border-radius: 50%;
-  border: 4px solid #4985b3; }
+  /* border-radius: 50%;
+  border: 4px solid #4985b3;  */
+}
 
 .foto:hover {
   animation-name: zoomIn;
@@ -80,7 +81,7 @@ body {
   color: white; }
 
 .profile {
-  background-color: #c08366;
+  background-color: #8ab329;
   padding: 2%;
   text-align: center;
   color: white;
@@ -94,7 +95,7 @@ body {
   text-align: justify; }
 
 .contact {
-  background-color: #c08366;
+  background-color: #8ab329;
   padding: 2%;
   text-align: center;
   color: white;
@@ -111,7 +112,7 @@ body {
   color: white;
   font-size: 150%;
   padding: 1%;
-  background-color: #c08366;
+  background-color: #8ab329;
   box-shadow: 0px 3px 5px 0px #6a6260; }
 
 .annee {
@@ -127,7 +128,7 @@ body {
   color: white;
   font-size: 150%;
   padding: 1%;
-  background-color: #c08366;
+  background-color: #8ab329;
   box-shadow: 0px 3px 5px 0px #6a6260; }
 
 .liens {
@@ -2523,73 +2524,73 @@ body {
         		box-shadow: 2px 0 2px #555;
         	}
         	.htmlColor{
-        		background: #1d74a7;
+        		background: #1c5a69;
         	}
         	.cssColor{
-        		background: #1d74a7;
+        		background: #1c5a69;
         	}
         	.bootstrapColor{
-        		background: #1d74a7;
+        		background: #1c5a69;
         	}
           .jqueryColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
         	.phpColor{
-        		background: #1d74a7;
+        		background: #1c5a69;
         	}
         	.ajaxColor{
-        		background: #1d74a7;
+        		background: #1c5a69;
         	}
           .jsColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
           .wpColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
           .angularColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
           .gitColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
           .xdColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
           .photoshopColor{
-            background: #1d74a7;
+            background: #1c5a69;
           }
         	.html{
-        		background: #3194f6;
+        		background: #0c87a6;
         	}
         	.css{
-        		background: #3194f6;
+        		background: #0c87a6;
         	}
           .wp{
-            background: #3194f6;
+            background: #0c87a6;
           }
         	.bootstrap{
-        		background: #3194f6;
+        		background: #0c87a6;
         	}
           .jquery{
-            background: #3194f6;
+            background: #0c87a6;
           }
         	.php{
-        		background: #3194f6;
+        		background: #0c87a6;
         	}
         	.js{
-        		background:  #3194f6;
+        		background:  #0c87a6;
         	}
           .angular{
-            background:  #3194f6;
+            background:  #0c87a6;
           }
           .git{
-            background:  #3194f6;
+            background:  #0c87a6;
           }
           .xd{
-            background:  #3194f6;
+            background:  #0c87a6;
           }
           .photoshop{
-            background:  #3194f6;
+            background:  #0c87a6;
           }
         	@media (max-width: 720px) {
         		.main{
